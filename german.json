@@ -1,7 +1,5 @@
 {
-  "lobby": {
-    "lottery": {
-      "buy": "Kaufe ein Ticket für %sCoins"
-    }
+  "values": {
+    "lobby.lottery.buy":  "Kaufe ein Ticket für %sCoins"
   }
 }
