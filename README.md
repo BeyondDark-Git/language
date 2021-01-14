@@ -8,7 +8,7 @@ Um eine neue Übersetzung einzureichen, erstell bitte eine Pull Request
 | SchattenRabe777 |         |     X    |                |
 | Vielleicht du?  |         |          |        X       |
 
-Webseite: [Klick hier](https://beyonddark.de/)
+Besuch doch unsere Webseite: [Hier klicken](https://beyonddark.de/)
 
 # English
 
@@ -20,4 +20,4 @@ To submit a new translation create a Pull Request
 | SchattenRabe777 |        |    X    |                 |
 | Maybe you?      |        |         |        X        |
 
-Website: [Click here](https://beyonddark.de/)
+Visit our Website: [Click here](https://beyonddark.de/)
