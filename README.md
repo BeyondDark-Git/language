@@ -1,5 +1,3 @@
-![alt text](https://beyonddark.de/img/logo.png "Logo")
-
 To submit a new translation create a Pull Request
 
 | Name            | German | English | More Languages? |
