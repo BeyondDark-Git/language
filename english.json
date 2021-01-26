@@ -11,7 +11,7 @@
     "lobbysystem.lottery.notenoughcoins": "&6You haven't got enough coins!",
     "lobbysystem.lottery.win": "&6You won %coins% coins!",
     "lobbysystem.compass": "&3Navigator",
-    "lobbysystem.lobbyswitcher": "&3Change Lobby",
+    "lobbysystem.settings": "&3Settings",
     "knockit.killstreak": "&c%player% has got a %killstreak%-killstreak!",
     "knockit.died": "&4You have been killed by %player%!",
     "knockit.killed": "&cYou killed %player%!",
