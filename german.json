@@ -11,7 +11,7 @@
     "lobbysystem.lottery.notenoughcoins": "&6Du hast nicht genug Coins!",
     "lobbysystem.lottery.win": "&6Du hast %coins%Coins gewonnen!",
     "lobbysystem.compass": "&3Navigator",
-    "lobbysystem.lobbyswitcher": "&3Lobby Wechsler",
+    "lobbysystem.profile": "&3Profil",
     "knockit.killstreak": "&c%player% hat eine %killstreak%Kill Serie!",
     "knockit.died": "&4Du wurdest von %player% getötet!",
     "knockit.killed": "&3&cDu hast %player% getötet!",
