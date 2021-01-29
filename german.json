@@ -59,6 +59,7 @@
     "woolbattle.starting": "&3Die Runde startet in %seconds%Sekunden!",
     "woolbattle.scoreboard.wins": "&dGewonnen",
     "woolbattle.scoreboard.defeats": "&5Verloren",
-    "woolbattle.start.perkinfo": "&6Dein Perk ist %perkname%.\nEs kostet %woolcount%Wolle."
+    "woolbattle.start.perkinfo": "&6Dein Perk ist %perkname%.\nEs kostet %woolcount%Wolle.",
+    "friendsystem.help": "Test"
   }
 }
