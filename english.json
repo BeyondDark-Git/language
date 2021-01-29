@@ -61,6 +61,7 @@
     "woolbattle.scoreboard.defeats": "&5You lost!",
     "woolbattle.start.perkinfo": "&6Your Perk is %perkname%.\nIt costs %woolcount% wool.",
     "friendsystem.help": "Test",
-    "friendsystem.alreadyrequested": "Test2"
+    "friendsystem.alreadyrequested": "Test2",
+    "friendsystem.requesthelp": "Test3"
   }
 }
