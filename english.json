@@ -60,9 +60,10 @@
     "woolbattle.scoreboard.wins": "&dYou won!",
     "woolbattle.scoreboard.defeats": "&5You lost!",
     "woolbattle.start.perkinfo": "&6Your Perk is %perkname%.\nIt costs %woolcount% wool.",
-    "friendsystem.help": "Test",
-    "friendsystem.alreadyrequested": "Test2",
-    "friendsystem.requesthelp": "Test3",
-    "friendsystem.requestfinish": "Test4"
+    "friendsystem.help": "help",
+    "friendsystem.alreadyrequested": "alreadyrequested",
+    "friendsystem.requesthelp": "requesthelp",
+    "friendsystem.requestfinish": "requestfinish",
+    "friendsystem.openrequest": "openrequest"
   }
 }
